@@ -5,7 +5,7 @@ export default function Nosotros() {
   return (
     <div>
       <Layout>
-        <h1>Nosotros</h1>
+        <h1>Nosotros...</h1>
       </Layout>
     </div>
      
